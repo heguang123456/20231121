@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main()
 {
-	printf("test\n");
+	printf("hahahaha\n");
+	printf("i success\n");
 }
